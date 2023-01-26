@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [a Merger Arbitrage Outcome Prediction Model](https://github.com/isabelteo/mergerarb)
 
-- 🌱 I’m currently working towards **a Google Cloud Machine Learning Engineer Certification and Meta Generalist Software Engineer Coursera Certification**
-
-- 📝 I am learning to write articles on [wonderfulcuriosities.wordpress.com](wonderfulcuriosities.wordpress.com)
+- 🌱 I’m currently working towards **a Google Cloud Machine Learning Engineer Certification**
 
 - 👨‍💻 At work, I am working on **KNIME topic modelling and customer segmentation workflows, a PowerBI dashboard to combine statistical reporting workstreams and data engineering using Python scripts**
 
