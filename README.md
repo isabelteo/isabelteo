@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isabel</h1>
 <h3 align="center">A curious student who enjoys learning about different aspects of tech, particulary in data science!</h3>
 
-- 🔭 I’m currently working on [a Merger Arbitrage Outcome Prediction Model](https://github.com/isabelteo/mergerarb)
-
 - 🌱 I’m currently working towards **a Google Cloud Machine Learning Engineer Certification**
-
-- 👨‍💻 At work, I am working on **KNIME topic modelling and customer segmentation workflows, a PowerBI dashboard to combine statistical reporting workstreams and data engineering using Python scripts**
 
 - 📫 How to reach me **e0563890@u.nus.edu**
 
