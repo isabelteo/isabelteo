@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isabel</h1>
-<h3 align="center">A curious student who enjoys learning about different aspects of tech, particulary in data science!</h3>
-
-- 🌱 I’m currently working towards **a Google Cloud Machine Learning Engineer Certification**
 
 - 📫 How to reach me **e0563890@u.nus.edu**
 
 - 📄 Know about my experiences by viewing my resume from [here](https://drive.google.com/file/d/1nhICh6VBtfNXcSKBOCPiTZdpwZ_KY8Ws/view?usp=sharing)
 
-- ⚡ Fun fact **I enjoy dabbling with new things from sports like ice skating to crocheting and playing the guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
