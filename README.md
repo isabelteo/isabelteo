@@ -4,6 +4,8 @@
 
 - 📄 Know about my experiences by viewing my resume from [here](https://drive.google.com/file/d/1nhICh6VBtfNXcSKBOCPiTZdpwZ_KY8Ws/view?usp=sharing)
 
+- :satisfied: Check out my portfolio site [here](https://isabelteojinglin.onrender.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
