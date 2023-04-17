@@ -2,8 +2,6 @@
 
 - 📫 How to reach me **e0563890@u.nus.edu**
 
-- 📄 Know about my experiences by viewing my resume from [here](https://drive.google.com/file/d/1nhICh6VBtfNXcSKBOCPiTZdpwZ_KY8Ws/view?usp=sharing)
-
 - :satisfied: Check out my portfolio site [here](https://isabelteojinglin.onrender.com) 
 
 - :v: Check out my blog [here](https://wonderfulcuriosities.vercel.app/) :exclamation: Work in Progress :exclamation:
