@@ -4,7 +4,7 @@
 
 - :satisfied: Check out my portfolio site [here](https://isabelteojinglin.onrender.com) 
 
-- :v: Check out my blog [here](https://wonderfulcuriosities.vercel.app/) :exclamation: Work in Progress :exclamation:
+- :v: Check out my blog [here](https://wonderfulcuriosities.super.site/)
 
 
 <h3 align="left">Connect with me:</h3>
