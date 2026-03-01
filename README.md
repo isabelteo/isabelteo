@@ -2,10 +2,6 @@
 
 - 📫 How to reach me **e0563890@u.nus.edu**
 
-- :satisfied: Check out my portfolio site [here](https://isabelteojinglin.onrender.com) 
-
-- :v: Check out my blog [here](https://wonderfulcuriosities.super.site/)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
